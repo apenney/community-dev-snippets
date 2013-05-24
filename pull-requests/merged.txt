@@ -1,0 +1,3 @@
+Merged in!
+
+summary: Merged into %filltext:name=branch:default=master:width=8% as %filltext:name=commit:default=sha:width=7%.  This should be released in %filltext:name=version:default=1.2.3%.  Thanks again for the contribution!

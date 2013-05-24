@@ -1,0 +1,4 @@
+Housekeeping - Commit Message
+-----
+
+On the point of housekeeping, please amend the commit message to include a description of the behavior without the patch applied, why this behavior is a problem, and then describe how the change addresses the problem.  If the change addresses an error, please consider including the error message verbatim so it's clear if the problem resurfaces in the future.  The first line of the commit message should be an imperative statement in the present tense.  Change rather than changed or changing for example.

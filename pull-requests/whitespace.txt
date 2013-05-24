@@ -1,0 +1,5 @@
+Housekeeping - Whitespace Errors
+-----
+
+On the point of code style, I notice there are a few whitespace errors.  In the future, please check for these errors using `git diff master --check` with your topic branch checked out.
+
