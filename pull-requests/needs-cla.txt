@@ -1,5 +1,5 @@
 Needs CLA signed
+----------------
 
-In addition, I notice that we don't have a contributor license agreement on file.  Please sign the CLA as per instructions in [CONTRIBUTING.md](https://github.com/puppetlabs/puppet/blob/master/CONTRIBUTING.md).  Please note, you don't need to print and mail the agreement.  Electronically signing the agreement is sufficient.
-
-The direct link to sign the CLA is: https://cla.puppetlabs.com
+I noticed that we don't have a contributor license agreement on file. We'll
+need you to [electronically sign the CLA](https://cla.puppetlabs.com) per the instructions in [CONTRIBUTING.md](https://github.com/puppetlabs/puppet/blob/master/CONTRIBUTING.md).
