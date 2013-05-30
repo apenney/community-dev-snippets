@@ -1,0 +1,4 @@
+Stale pull request - 1 week warning
+-----------------------------------
+
+I noticed this hasn't seen any activity in about a week. Is there a chance you'll be able to work on this in the coming week? No pressure, just checking in.
