@@ -1,4 +1,5 @@
 Housekeeping - Commit Message
 -----
 
-On the point of housekeeping, please amend the commit message to include a description of the behavior without the patch applied, why this behavior is a problem, and then describe how the change addresses the problem.  If the change addresses an error, please consider including the error message verbatim so it's clear if the problem resurfaces in the future.  The first line of the commit message should be an imperative statement in the present tense.  Change rather than changed or changing for example.
+It would be good to have the commit message amended a little. The first line of the commit should have the issue number and a description of the problem or fix, and the body of the commit message should explain what is this existing behavior and how this change fixes it. We have a more complete explanation of this at https://github.com/puppetlabs/puppet/blob/master/CONTRIBUTING.md#making-changes .
+
