@@ -1,0 +1,5 @@
+It looks like this pull request hasn't seen any activity in about two weeks. Is this something that you're still able to work on? We're happy to keep this pull request open if there's forward movement, and we'll leave it open for another two weeks from now. If there isn't any activity by then we may have to close this pull request due to lack of activity.
+
+Closing the pull request wouldn't mean we don't consider this change valuable. However we try to keep all open pull requests moving towards completion, and closing stale pull requests help us focus on more active pull requests.
+
+If you have any questions or concerns, please don't hesitate to ping us in #puppet-dev on irc.freenode.net.
