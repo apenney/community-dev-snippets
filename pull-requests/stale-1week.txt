@@ -1,4 +1,1 @@
-Stale pull request - 1 week warning
------------------------------------
-
-I noticed this hasn't seen any activity in about a week. Is there a chance you'll be able to work on this in the coming week? No pressure, just checking in.
+It looks like this pull request hasn't had any new comments or code changes in about a week or so. We generally like to see forward progress on a weekly basis so that pull requests don't get stuck; is there a chance you'll be able to work on this in the coming week?
