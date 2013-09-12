@@ -1,1 +1,1 @@
-If you would like to discuss this further, IRC would be one of the best ways to get ahold of me. I'm generally available on irc.freenode.net from 9:00 AM - 5:00 PM in #puppet and #puppet-dev, and my nickname is finch.
+If you would like to discuss this further, IRC would be one of the best ways to get ahold of me. I'm generally available on irc.freenode.net from 9:00 AM - 5:00 PM GMT -7 in #puppet and #puppet-dev, and my nickname is finch.
