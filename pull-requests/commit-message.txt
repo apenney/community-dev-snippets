@@ -1,5 +1,16 @@
-Housekeeping - Commit Message
------
+We have a standard format for commit messages to make the git history a bit
+clearer when we have to go back and look ad old changes, could you amend the
+commit message to look like this?
 
-It would be good to have the commit message amended a little. The first line of the commit should have the issue number and a description of the problem or fix, and the body of the commit message should explain what is this existing behavior and how this change fixes it. We have a more complete explanation of this at https://github.com/puppetlabs/puppet/blob/master/CONTRIBUTING.md#making-changes .
+```
+(#issue-number) brief description of the commit
 
+The first paragraph describes the issue that this commit is fixing. While it's
+not mandatory, it's good to have this in case the issue is non-obvious or has
+some complexity.
+
+The second paragraph describes how this commit fixes the issue. It should
+give a brief summary of the fix, and any extra concerns.
+```
+
+We have a more complete explanation of this at https://github.com/puppetlabs/puppet/blob/master/CONTRIBUTING.md#making-changes .
