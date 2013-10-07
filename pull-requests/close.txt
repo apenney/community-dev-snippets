@@ -1,3 +1,3 @@
-I'm going to go ahead and close this pull request for the time being. Please re-open this pull request once the next actions are addressed, new information is available, or you have a question related to this pull request. We've become aware of difficulties re-opening pull requests, in the event you cannot please mention jeffmccune or adrienthebo with an @ sign in front and we'll re-open this pull request.
+I'm going to close this pull request for the time being. If the next actions can be addressed or there is new information related to this pull request, you can submit a new pull request or ask us to reopen this pull request.
 
 Closing the pull request doesn't mean we don't consider this change valuable, just that there are things that need to be addressed before it can be merged.  If you have any questions or concerns, please don't hesitate to ping us in #puppet-dev on irc.freenode.net.
